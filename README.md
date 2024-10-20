@@ -1,5 +1,4 @@
-Projet Symfony
-Installation
+
 Pour installer et configurer le projet, suivez les étapes ci-dessous :
 
 1. Clonez le dépôt :
